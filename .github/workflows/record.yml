@@ -1,0 +1,48 @@
+# ═══════════════════════════════════════════════════════════════
+#  WeatherWorld — Hourly Auto-Recorder (GitHub Actions)
+#  -------------------------------------------------------
+#  Runs every hour automatically on GitHub's free servers.
+#  Saves weather data for 12 world cities as CSV + JSON.
+#  No computer needs to stay on.
+# ═══════════════════════════════════════════════════════════════
+
+name: WeatherWorld Hourly Recorder
+
+on:
+  schedule:
+    - cron: '0 * * * *'    # runs at :00 every hour, 24/7
+  workflow_dispatch:         # adds a "Run workflow" button in GitHub UI
+
+permissions:
+  contents: write            # required to commit data files back to repo
+
+jobs:
+  record:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10      # safety: kill if it hangs
+
+    steps:
+
+      # 1. Download your repo files onto the GitHub server
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 2. Install Python
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      # 3. Run the recorder — fetches all 12 cities, saves to weather_data/
+      - name: Run weather recorder
+        run: python weather_recorder.py
+
+      # 4. Commit the new data files back into your repo
+      - name: Commit and push recorded data
+        run: |
+          git config user.email "weatherbot@github-actions"
+          git config user.name  "WeatherBot"
+          git add weather_data/
+          git diff --cached --quiet \
+            && echo "Nothing new to commit." \
+            || (git commit -m "data: $(date -u +'%Y-%m-%d %H:%M UTC')" && git push)
