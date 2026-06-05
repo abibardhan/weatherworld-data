@@ -1,0 +1,13 @@
+﻿Timestamp,City,Country,Latitude,Longitude,Temp_C,Temp_F,FeelsLike_C,FeelsLike_F,Humidity_%,Wind_kmh,Wind_Dir,Wind_Deg,Rain_mm,UV_Index,Pressure_hPa,CloudCover_%,Visibility_km,Condition,WMO_Code
+2026-06-05 00:06:01,New York,United States,40.7128,-74.006,26,78.8,25,77.0,34,10,SSE,160,0.0,0,1012,0,55.9,Clear Sky,0
+2026-06-05 00:06:01,London,United Kingdom,51.5074,-0.1278,15,59.0,13,55.4,74,16,WSW,256,0.0,0,1004,83,20.0,Overcast,3
+2026-06-05 00:06:01,Tokyo,Japan,35.6762,139.6503,19,66.2,19,66.2,71,7,NE,43,0.0,5,1006,67,27.8,Partly Cloudy,2
+2026-06-05 00:06:01,Sydney,Australia,-33.8688,151.2093,14,57.2,10,50.0,65,20,W,261,0.0,2,1000,31,52.3,Mainly Clear,1
+2026-06-05 00:06:01,Dubai,UAE,25.2048,55.2708,30,86.0,33,91.4,61,11,SW,214,0.0,0,1000,0,16.3,Clear Sky,0
+2026-06-05 00:06:01,Paris,France,48.8566,2.3522,14,57.2,12,53.6,74,9,WSW,247,0.0,0,1007,49,35.0,Partly Cloudy,2
+2026-06-05 00:06:01,Singapore,Singapore,1.3521,103.8198,25,77.0,32,89.6,100,2,NNE,27,0.1,1,1006,100,0.4,Light Drizzle,51
+2026-06-05 00:06:01,Los Angeles,United States,34.0522,-118.2437,24,75.2,24,75.2,63,14,WSW,249,0.0,4,1000,15,25.1,Clear Sky,0
+2026-06-05 00:06:01,Mumbai,India,19.076,72.8777,29,84.2,35,95.0,80,7,S,187,0.1,0,1005,48,8.4,Light Drizzle,51
+2026-06-05 00:06:01,Cairo,Egypt,30.0444,31.2357,23,73.4,24,75.2,65,7,NNE,15,0.0,0,1011,0,38.3,Clear Sky,0
+2026-06-05 00:06:01,Sao Paulo,Brazil,-23.5505,-46.6333,15,59.0,15,59.0,90,9,ESE,109,0.0,0,940,37,2.5,Mainly Clear,1
+2026-06-05 00:06:01,Moscow,Russia,55.7558,37.6173,13,55.4,13,55.4,82,3,NE,49,0.0,0,1000,22,36.9,Mainly Clear,1
