@@ -1,0 +1,12 @@
+﻿Timestamp,City,Country,Latitude,Longitude,Temp_C,Temp_F,FeelsLike_C,FeelsLike_F,Humidity_%,Wind_kmh,Wind_Dir,Wind_Deg,Rain_mm,UV_Index,Pressure_hPa,CloudCover_%,Visibility_km,Condition,WMO_Code
+2026-07-19 02:33:38,New York,United States,40.7128,-74.006,23,73.4,26,78.8,92,19,SW,226,0.0,0,999,100,13.5,Overcast,3
+2026-07-19 02:33:38,London,United Kingdom,51.5074,-0.1278,15,59.0,13,55.4,66,12,N,7,0.0,0,1021,14,29.1,Clear Sky,0
+2026-07-19 02:33:38,Tokyo,Japan,35.6762,139.6503,30,86.0,36,96.8,71,6,S,183,0.0,5,1004,36,29.4,Mainly Clear,1
+2026-07-19 02:33:38,Sydney,Australia,-33.8688,151.2093,18,64.4,16,60.8,62,11,SSE,147,0.0,4,1022,85,49.7,Overcast,3
+2026-07-19 02:33:38,Dubai,UAE,25.2048,55.2708,32,89.6,39,102.2,80,6,ENE,78,0.0,0,999,2,12.3,Clear Sky,0
+2026-07-19 02:33:38,Paris,France,48.8566,2.3522,16,60.8,14,57.2,73,10,N,4,0.0,0,1016,0,35.1,Clear Sky,0
+2026-07-19 02:33:38,Singapore,Singapore,1.3521,103.8198,30,86.0,34,93.2,66,9,SE,142,0.0,5,1007,10,4.4,Clear Sky,0
+2026-07-19 02:33:38,Los Angeles,United States,34.0522,-118.2437,24,75.2,26,78.8,66,10,WSW,249,0.0,0,1001,8,24.6,Clear Sky,0
+2026-07-19 02:33:38,Mumbai,India,19.076,72.8777,26,78.8,31,87.8,93,8,WSW,240,0.1,1,1007,100,2.8,Thunderstorm,95
+2026-07-19 02:33:38,Cairo,Egypt,30.0444,31.2357,24,75.2,29,84.2,88,4,N,355,0.0,0,1006,0,22.0,Clear Sky,0
+2026-07-19 02:33:38,Sao Paulo,Brazil,-23.5505,-46.6333,16,60.8,14,57.2,56,11,N,1,0.0,0,932,0,36.4,Clear Sky,0
