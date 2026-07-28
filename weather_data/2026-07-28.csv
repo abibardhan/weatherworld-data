@@ -1,0 +1,12 @@
+﻿Timestamp,City,Country,Latitude,Longitude,Temp_C,Temp_F,FeelsLike_C,FeelsLike_F,Humidity_%,Wind_kmh,Wind_Dir,Wind_Deg,Rain_mm,UV_Index,Pressure_hPa,CloudCover_%,Visibility_km,Condition,WMO_Code
+2026-07-28 00:00:18,New York,United States,40.7128,-74.006,22,71.6,24,75.2,89,14,WSW,253,4.0,0,1006,100,1.7,Heavy Showers,82
+2026-07-28 00:00:18,London,United Kingdom,51.5074,-0.1278,21,69.8,21,69.8,70,12,W,270,0.0,0,1019,0,24.8,Clear Sky,0
+2026-07-28 00:00:18,Tokyo,Japan,35.6762,139.6503,24,75.2,28,82.4,82,2,ESE,112,0.0,4,1010,62,21.9,Partly Cloudy,2
+2026-07-28 00:00:18,Sydney,Australia,-33.8688,151.2093,12,53.6,10,50.0,80,8,W,276,0.0,3,1012,34,3.9,Mainly Clear,1
+2026-07-28 00:00:18,Dubai,UAE,25.2048,55.2708,30,86.0,38,100.4,80,5,SE,138,0.0,0,997,0,13.3,Clear Sky,0
+2026-07-28 00:00:18,Paris,France,48.8566,2.3522,21,69.8,20,68.0,54,5,NNE,18,0.0,0,1017,0,40.9,Clear Sky,0
+2026-07-28 00:00:18,Singapore,Singapore,1.3521,103.8198,26,78.8,32,89.6,89,6,ESE,120,0.0,0,1005,100,10.5,Overcast,3
+2026-07-28 00:00:18,Mumbai,India,19.076,72.8777,26,78.8,30,86.0,90,12,SW,233,0.1,0,1003,98,4.1,Drizzle,53
+2026-07-28 00:00:18,Cairo,Egypt,30.0444,31.2357,23,73.4,26,78.8,84,5,N,356,0.0,0,1008,3,27.7,Clear Sky,0
+2026-07-28 00:00:18,Sao Paulo,Brazil,-23.5505,-46.6333,20,68.0,21,69.8,75,0,NNW,333,0.0,0,932,0,33.0,Clear Sky,0
+2026-07-28 00:00:18,Moscow,Russia,55.7558,37.6173,18,64.4,18,64.4,77,5,S,180,0.0,0,992,0,35.0,Clear Sky,0
