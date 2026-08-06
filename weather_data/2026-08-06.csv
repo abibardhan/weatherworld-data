@@ -1,0 +1,13 @@
+﻿Timestamp,City,Country,Latitude,Longitude,Temp_C,Temp_F,FeelsLike_C,FeelsLike_F,Humidity_%,Wind_kmh,Wind_Dir,Wind_Deg,Rain_mm,UV_Index,Pressure_hPa,CloudCover_%,Visibility_km,Condition,WMO_Code
+2026-08-06 03:22:06,New York,United States,40.7128,-74.006,24,75.2,28,82.4,94,7,ESE,119,0.0,0,1016,20,12.7,Mainly Clear,1
+2026-08-06 03:22:06,London,United Kingdom,51.5074,-0.1278,16,60.8,14,57.2,64,10,WSW,258,0.0,0,1018,60,21.2,Partly Cloudy,2
+2026-08-06 03:22:06,Tokyo,Japan,35.6762,139.6503,29,84.2,36,96.8,74,2,NE,39,0.0,8,1007,26,8.6,Mainly Clear,1
+2026-08-06 03:22:06,Sydney,Australia,-33.8688,151.2093,15,59.0,14,57.2,47,4,W,270,0.0,4,1012,8,12.8,Clear Sky,0
+2026-08-06 03:22:06,Dubai,UAE,25.2048,55.2708,34,93.2,37,98.6,51,10,SSE,155,0.0,1,998,0,16.7,Clear Sky,0
+2026-08-06 03:22:06,Paris,France,48.8566,2.3522,18,64.4,17,62.6,61,7,NW,317,0.0,0,1018,82,39.7,Overcast,3
+2026-08-06 03:22:06,Singapore,Singapore,1.3521,103.8198,29,84.2,34,93.2,72,12,S,182,0.0,7,1007,69,12.3,Partly Cloudy,2
+2026-08-06 03:22:06,Los Angeles,United States,34.0522,-118.2437,21,69.8,22,71.6,81,10,W,272,0.0,0,1000,35,16.2,Mainly Clear,1
+2026-08-06 03:22:06,Mumbai,India,19.076,72.8777,27,80.6,32,89.6,88,12,W,264,0.0,2,1006,98,6.3,Light Drizzle,51
+2026-08-06 03:22:06,Cairo,Egypt,30.0444,31.2357,23,73.4,28,82.4,91,3,NNE,23,0.0,0,1008,0,19.6,Clear Sky,0
+2026-08-06 03:22:06,Sao Paulo,Brazil,-23.5505,-46.6333,19,66.2,19,66.2,73,6,N,358,0.0,0,930,19,29.9,Clear Sky,0
+2026-08-06 03:22:06,Moscow,Russia,55.7558,37.6173,18,64.4,20,68.0,83,3,SSW,193,0.0,0,1000,38,32.5,Partly Cloudy,2
