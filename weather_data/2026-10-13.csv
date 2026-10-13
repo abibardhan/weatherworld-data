@@ -1,0 +1,4 @@
+﻿Timestamp,City,Country,Latitude,Longitude,Temp_C,Temp_F,FeelsLike_C,FeelsLike_F,Humidity_%,Wind_kmh,Wind_Dir,Wind_Deg,Rain_mm,UV_Index,Pressure_hPa,CloudCover_%,Visibility_km,Condition,WMO_Code
+2026-10-13 00:09:20,New York,United States,40.7128,-74.006,17,62.6,17,62.6,81,8,WNW,283,0.0,0,1007,18,18.3,Clear Sky,0
+2026-10-13 00:09:20,London,United Kingdom,51.5074,-0.1278,17,62.6,16,60.8,86,12,SW,222,0.0,0,1013,95,21.0,Overcast,3
+2026-10-13 00:09:20,Los Angeles,United States,34.0522,-118.2437,17,62.6,18,64.4,72,5,SE,129,0.0,1,1002,83,23.4,Overcast,3
