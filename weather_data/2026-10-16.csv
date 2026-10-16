@@ -1,0 +1,10 @@
+﻿Timestamp,City,Country,Latitude,Longitude,Temp_C,Temp_F,FeelsLike_C,FeelsLike_F,Humidity_%,Wind_kmh,Wind_Dir,Wind_Deg,Rain_mm,UV_Index,Pressure_hPa,CloudCover_%,Visibility_km,Condition,WMO_Code
+2026-10-16 00:06:03,New York,United States,40.7128,-74.006,14,57.2,13,55.4,71,9,SSE,154,0.0,0,1018,1,22.8,Clear Sky,0
+2026-10-16 00:06:03,London,United Kingdom,51.5074,-0.1278,16,60.8,16,60.8,85,13,SW,224,0.0,0,1016,12,25.6,Clear Sky,0
+2026-10-16 00:06:03,Tokyo,Japan,35.6762,139.6503,19,66.2,20,68.0,71,4,N,351,0.0,3,1017,17,36.4,Clear Sky,0
+2026-10-16 00:06:03,Sydney,Australia,-33.8688,151.2093,17,62.6,14,57.2,65,16,E,81,0.1,6,1021,77,4.8,Light Drizzle,51
+2026-10-16 00:06:03,Paris,France,48.8566,2.3522,16,60.8,16,60.8,79,5,SSE,150,0.0,0,1017,0,31.3,Clear Sky,0
+2026-10-16 00:06:03,Singapore,Singapore,1.3521,103.8198,26,78.8,32,89.6,96,6,NNW,336,0.0,1,1006,100,10.1,Overcast,3
+2026-10-16 00:06:03,Los Angeles,United States,34.0522,-118.2437,33,91.4,29,84.2,11,14,E,79,0.0,1,1003,0,90.0,Clear Sky,0
+2026-10-16 00:06:03,Mumbai,India,19.076,72.8777,28,82.4,32,89.6,64,3,N,360,0.0,0,1010,16,12.6,Clear Sky,0
+2026-10-16 00:06:03,Moscow,Russia,55.7558,37.6173,9,48.2,7,44.6,96,5,N,4,0.0,0,1009,100,2.2,Foggy,45
