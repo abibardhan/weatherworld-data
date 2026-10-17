@@ -1,0 +1,10 @@
+﻿Timestamp,City,Country,Latitude,Longitude,Temp_C,Temp_F,FeelsLike_C,FeelsLike_F,Humidity_%,Wind_kmh,Wind_Dir,Wind_Deg,Rain_mm,UV_Index,Pressure_hPa,CloudCover_%,Visibility_km,Condition,WMO_Code
+2026-10-17 01:03:19,New York,United States,40.7128,-74.006,18,64.4,19,66.2,84,8,WNW,301,0.0,0,1003,100,16.8,Overcast,3
+2026-10-17 01:03:19,London,United Kingdom,51.5074,-0.1278,9,48.2,6,42.8,75,12,NNW,342,0.0,0,1029,0,27.4,Clear Sky,0
+2026-10-17 01:03:19,Tokyo,Japan,35.6762,139.6503,20,68.0,20,68.0,52,6,NNE,15,0.0,5,1022,33,43.5,Mainly Clear,1
+2026-10-17 01:03:19,Dubai,UAE,25.2048,55.2708,30,86.0,38,100.4,84,5,SSE,168,0.0,0,1010,45,13.5,Clear Sky,0
+2026-10-17 01:03:19,Paris,France,48.8566,2.3522,11,51.8,9,48.2,82,9,NNW,334,0.0,0,1022,0,29.3,Clear Sky,0
+2026-10-17 01:03:19,Singapore,Singapore,1.3521,103.8198,27,80.6,33,91.4,91,2,ENE,59,0.0,3,1007,96,7.6,Overcast,3
+2026-10-17 01:03:19,Los Angeles,United States,34.0522,-118.2437,32,89.6,29,84.2,16,10,SE,141,0.0,0,1003,0,89.2,Clear Sky,0
+2026-10-17 01:03:19,Mumbai,India,19.076,72.8777,28,82.4,32,89.6,71,4,ENE,72,0.0,0,1010,18,11.1,Clear Sky,0
+2026-10-17 01:03:19,Sao Paulo,Brazil,-23.5505,-46.6333,17,62.6,19,66.2,100,5,NW,314,0.0,0,927,100,3.3,Thunderstorm,95
