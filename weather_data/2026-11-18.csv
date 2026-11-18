@@ -1,0 +1,13 @@
+﻿Timestamp,City,Country,Latitude,Longitude,Temp_C,Temp_F,FeelsLike_C,FeelsLike_F,Humidity_%,Wind_kmh,Wind_Dir,Wind_Deg,Rain_mm,UV_Index,Pressure_hPa,CloudCover_%,Visibility_km,Condition,WMO_Code
+2026-11-18 03:18:47,New York,United States,40.7128,-74.006,7,44.6,4,39.2,58,8,NW,321,0.0,0,1027,0,32.0,Clear Sky,0
+2026-11-18 03:18:47,London,United Kingdom,51.5074,-0.1278,10,50.0,7,44.6,85,16,WSW,245,0.0,0,980,69,19.4,Partly Cloudy,2
+2026-11-18 03:18:47,Tokyo,Japan,35.6762,139.6503,19,66.2,19,66.2,67,4,S,185,0.0,4,1001,10,40.2,Clear Sky,0
+2026-11-18 03:18:47,Sydney,Australia,-33.8688,151.2093,22,71.6,23,73.4,61,14,E,88,0.0,8,1015,78,23.6,Partly Cloudy,2
+2026-11-18 03:18:47,Dubai,UAE,25.2048,55.2708,24,75.2,26,78.8,71,5,SE,143,0.0,0,1016,49,24.9,Clear Sky,0
+2026-11-18 03:18:47,Paris,France,48.8566,2.3522,12,53.6,9,48.2,81,17,SW,230,0.0,0,987,56,31.5,Partly Cloudy,2
+2026-11-18 03:18:47,Singapore,Singapore,1.3521,103.8198,31,87.8,38,100.4,66,3,WSW,245,0.0,7,1008,91,23.9,Overcast,3
+2026-11-18 03:18:47,Los Angeles,United States,34.0522,-118.2437,15,59.0,11,51.8,36,8,WNW,302,0.0,0,1007,0,56.1,Clear Sky,0
+2026-11-18 03:18:47,Mumbai,India,19.076,72.8777,26,78.8,27,80.6,51,6,ENE,76,0.0,2,1016,0,12.1,Clear Sky,0
+2026-11-18 03:18:47,Cairo,Egypt,30.0444,31.2357,14,57.2,15,59.0,93,2,N,351,0.0,0,1016,0,22.6,Clear Sky,0
+2026-11-18 03:18:47,Sao Paulo,Brazil,-23.5505,-46.6333,19,66.2,21,69.8,93,6,ENE,76,0.0,0,926,44,21.3,Mainly Clear,1
+2026-11-18 03:18:47,Moscow,Russia,55.7558,37.6173,0,32.0,-4,24.8,83,12,SE,126,0.0,0,984,99,23.6,Light Snow,71
