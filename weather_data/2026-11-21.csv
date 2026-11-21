@@ -1,0 +1,5 @@
+﻿Timestamp,City,Country,Latitude,Longitude,Temp_C,Temp_F,FeelsLike_C,FeelsLike_F,Humidity_%,Wind_kmh,Wind_Dir,Wind_Deg,Rain_mm,UV_Index,Pressure_hPa,CloudCover_%,Visibility_km,Condition,WMO_Code
+2026-11-21 00:37:09,Mumbai,India,19.076,72.8777,20,68.0,20,68.0,58,5,NE,54,0.0,0,1013,0,11.6,Clear Sky,0
+2026-11-21 00:37:09,Cairo,Egypt,30.0444,31.2357,17,62.6,17,62.6,82,4,NNW,345,0.0,0,1017,0,33.9,Clear Sky,0
+2026-11-21 00:37:09,Sao Paulo,Brazil,-23.5505,-46.6333,24,75.2,27,80.6,80,7,E,87,0.0,0,929,94,27.7,Overcast,3
+2026-11-21 00:37:09,Moscow,Russia,55.7558,37.6173,4,39.2,2,35.6,96,3,ESE,122,0.0,0,980,100,4.2,Overcast,3
